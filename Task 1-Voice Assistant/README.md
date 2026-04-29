@@ -25,6 +25,10 @@ This project is a simple Python Voice Assistant that responds to voice commands 
 ## How It Works
 The Voice Assistant works by first listening to the user’s voice through the microphone using the SpeechRecognition library. It converts the spoken words into text and checks the command given by the user. Based on the command, it performs actions like greeting the user, telling the current time and date, searching information on Wikipedia, or opening websites like Google and YouTube. The assistant responds back using voice output with the help of the pyttsx3 text-to-speech library, making the interaction simple and user-friendly.
 
+## Output Screenshot
+
+![Voice Assistant Output](output1.png)
+
 ## Files Included
 - assistant.py → Main Python code
 - output1.png → Output screenshot
