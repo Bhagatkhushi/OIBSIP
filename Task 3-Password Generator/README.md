@@ -1,4 +1,4 @@
-# Password Generator- Task 3
+# Password Generator - Task 3
 
 ## Overview
 
