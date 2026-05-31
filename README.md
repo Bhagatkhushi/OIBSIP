@@ -1,11 +1,12 @@
 # OIBSIP - Python Programming Internship
 
-This repository contains all the tasks completed during my Python Programming Internship at Oasis Infobyte.
+This repository contains all the projects completed during my Python Programming Internship at Oasis Infobyte..
 
-## Tasks
+## Internship Tasks
 
 ### Task 1 - Voice Assistant
-A Python voice assistant that responds to voice commands and performs tasks like opening websites, telling time/date, and searching Wikipedia.
+Developed a Python-based voice assistant that responds to voice commands and performs tasks like opening websites, telling time/date, and searching Wikipedia.
+Repo
 
 ### Task 2 - BMI Calculator
 A simple BMI Calculator developed using Python and Tkinter that calculates Body Mass Index and shows health categories.
